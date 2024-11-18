@@ -14,6 +14,15 @@
   <p>- Frameworks : Flutter</p>
   <p>- Tools : Vscode, Androidstudio</p>
 </div>
+<br>
+<hr></hr>
+Projects
+
+Here are some of my notable projects:
+
+- **[Todo list]([link-to-project](https://github.com/nadayousryelghandour1/task12.1))**: used Hive frame and Block concept
+- **[Weather App]([link-to-project](https://github.com/nadayousryelghandour1/task11))**: used Api and Block concept
+
 <!---
 nadayousryelghandour1/nadayousryelghandour1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
