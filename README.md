@@ -12,7 +12,7 @@
 <hr></hr>
 <div>
   <h2>🔧 Technologies & Tools</h2>
-  <img align="right" alt="Welcome" width="350" height = "250" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+  <img align="right" alt="Welcome" width="300" height = "200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
   <p>- Languages : C++, C, Python, Java , dart</p>
   <p>- Frameworks : Flutter</p>
   <p>- Tools : Vscode, Androidstudio</p>
