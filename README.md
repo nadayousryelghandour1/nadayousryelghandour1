@@ -23,6 +23,14 @@ Here are some of my notable projects:
 - <strong>Todo list</strong> : used Hive frame and Block concept  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a>
 - <strong> Weather App </strong> : used Api and Block concept ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a>
 
+<br>
+<hr>
+<h2>📫 Get in Touch</h2>
+    <p>
+        <strong>Email:</strong> <a href="nadayousryelghandour@gmail.com">nadayousryelghandour@gmail.com</a><br>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nada-yousry-elghandour-4b71352b1/">LinkedIn Profile</a><br>
+    </p>
+
 <!---
 nadayousryelghandour1/nadayousryelghandour1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
