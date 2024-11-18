@@ -8,6 +8,7 @@
 <br>
 <br>
 <br>
+<br>
 <hr></hr>
 <div>
   <h2>🔧 Technologies & Tools</h2>
@@ -22,7 +23,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p>Here are some of my notable projects:</p><br>
 - <strong>Todo list</strong> : used Hive frame and Block concept  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a><br><br>
-- <strong> Weather App </strong> : used Api and Block concept   ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a><br><br>
+- <strong> Weather App </strong> : used Api and Block concept   ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a><br><br><br>
 </div>
 <br>
 <hr>
