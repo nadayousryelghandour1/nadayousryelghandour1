@@ -38,8 +38,12 @@
     <p>
         <strong>Email : </strong> <a href="nadayousryelghandour@gmail.com">nadayousryelghandour@gmail.com</a><br><br>
         <strong>LinkedIn : </strong> <a href="https://www.linkedin.com/in/nada-yousry-elghandour-4b71352b1/">Nada Yousry Elghandour</a><br><br>
-      <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966">
     </p>
+
+<br>
+<img width="1200" src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<br>
+
 
 <!---
 nadayousryelghandour1/nadayousryelghandour1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
