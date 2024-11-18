@@ -18,7 +18,7 @@
 <hr></hr>
 <h2>Projects</h2>
 <p>Here are some of my notable projects:</p>
-- <strong>Todo list</strong> : <span> used Hive frame and Block concept </span>  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a><br>
+- <strong>Todo list</strong> : <span> used Hive frame and Block concept    </span>  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a><br>
 - <strong> Weather App </strong> : used Api and Block concept   ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a><br>
 
 <br>
