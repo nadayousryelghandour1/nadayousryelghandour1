@@ -12,7 +12,7 @@
 <hr></hr>
 <div>
   <h2>🔧 Technologies & Tools</h2>
-  <img align="right" alt="Welcome" width="270" height = "170" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+  <img align="right" alt="Skills" width="270" height = "170" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
   <br>
   <p>- Languages : C++, C, Python, Java , dart</p><br>
   <p>- Frameworks : Flutter</p><br>
@@ -22,7 +22,7 @@
 <hr></hr>
 <div>
 <h2>Projects</h2>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p>Here are some of my notable projects:</p><br>
 - <strong>Todo list</strong> : used Hive frame and Block concept  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a><br><br>
 - <strong> Weather App </strong> : used Api and Block concept   ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a><br><br><br>
@@ -34,7 +34,7 @@
 <br>
 <hr>
 <h2>📫 Get in Touch</h2>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"><br>
+<img align="right" alt="HandShake" width="300" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"><br>
     <p>
         <strong>Email : </strong> <a href="nadayousryelghandour@gmail.com">nadayousryelghandour@gmail.com</a><br><br>
         <strong>LinkedIn : </strong> <a href="https://www.linkedin.com/in/nada-yousry-elghandour-4b71352b1/">Nada Yousry Elghandour</a><br><br>
@@ -45,9 +45,9 @@
 <br>
 <br>
 <div>
-<img width="330" src = "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
-<img width="330" src = "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
-<img width="330" src = "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<img width="310" src = "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<img width="310" src = "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<img width="310" src = "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
 </div>
 <br>
 <!---
