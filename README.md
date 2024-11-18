@@ -12,7 +12,7 @@
 <hr></hr>
 <div>
   <h2>🔧 Technologies & Tools</h2>
-  <img align="right" alt="Welcome" width="350" height = "250" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+  <img align="right" alt="Welcome" width="350" height = "250" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
   <p>- Languages : C++, C, Python, Java , dart</p>
   <p>- Frameworks : Flutter</p>
   <p>- Tools : Vscode, Androidstudio</p>
@@ -21,7 +21,7 @@
 <hr></hr>
 <div>
 <h2>Projects</h2>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p>Here are some of my notable projects:</p><br>
 - <strong>Todo list</strong> : used Hive frame and Block concept  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a><br><br>
 - <strong> Weather App </strong> : used Api and Block concept   ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a><br><br><br>
