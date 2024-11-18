@@ -20,7 +20,7 @@ Projects
 
 Here are some of my notable projects:
 
-- **[Todo list]([link-to-project](https://github.com/nadayousryelghandour1/task12.1))**: used Hive frame and Block concept
+- **[Todo list](<i>(https://github.com/nadayousryelghandour1/task12.1)</i>)**: used Hive frame and Block concept
 - **[Weather App]([link-to-project](https://github.com/nadayousryelghandour1/task11))**: used Api and Block concept
 
 <!---
