@@ -1,5 +1,5 @@
 <div>
-<img align="right" alt="Welcome" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<img align="right" alt="Welcome" width="300" height = "200" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 <h3>Hi, I’m Nada Yousry</h3>
 <p>A Mobile Application developer from Egypt</p>
 <p>I’m currently learning Flutter</p>
