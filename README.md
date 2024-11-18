@@ -18,15 +18,15 @@
 <hr></hr>
 <h2>Projects</h2>
 <p>Here are some of my notable projects:</p>
-- <strong>Todo list</strong> : used Hive frame and Block concept   ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a><br>
+- <strong>Todo list</strong> : <span> used Hive frame and Block concept </span>  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a><br>
 - <strong> Weather App </strong> : used Api and Block concept   ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a><br>
 
 <br>
 <hr>
 <h2>📫 Get in Touch</h2>
     <p>
-        <strong>Email:</strong> <a href="nadayousryelghandour@gmail.com">nadayousryelghandour@gmail.com</a><br>
-        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nada-yousry-elghandour-4b71352b1/">LinkedIn Profile</a><br>
+        <strong>Email : </strong> <a href="nadayousryelghandour@gmail.com">nadayousryelghandour@gmail.com</a><br>
+        <strong>LinkedIn : </strong> <a href="https://www.linkedin.com/in/nada-yousry-elghandour-4b71352b1/">LinkedIn Profile</a><br>
     </p>
 
 <!---
