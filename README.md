@@ -1,5 +1,5 @@
 <div>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Welcome" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 <h3>Hi, I’m Nada Yousry</h3>
 <p>A Mobile Application developer from Egypt</p>
 <p>I’m currently learning Flutter</p>
@@ -16,9 +16,10 @@
 </div>
 <br>
 <hr></hr>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <h2>Projects</h2>
 <p>Here are some of my notable projects:</p>
-- <strong>Todo list</strong> : <p> used Hive frame and Block concept  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a></p>
+- <strong>Todo list</strong> : used Hive frame and Block concept  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a>
 - <strong> Weather App </strong> : used Api and Block concept   ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a><br>
 
 <br>
