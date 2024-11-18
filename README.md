@@ -12,10 +12,10 @@
 <hr></hr>
 <div>
   <h2>🔧 Technologies & Tools</h2>
-  <img align="right" alt="Welcome" width="280" height = "180" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
-  <p>- Languages : C++, C, Python, Java , dart</p>
-  <p>- Frameworks : Flutter</p>
-  <p>- Tools : Vscode, Androidstudio</p>
+  <img align="right" alt="Welcome" width="270" height = "170" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+  <p>- Languages : C++, C, Python, Java , dart</p><br>
+  <p>- Frameworks : Flutter</p><br>
+  <p>- Tools : Vscode, Androidstudio</p><br>
 </div>
 <br>
 <hr></hr>
