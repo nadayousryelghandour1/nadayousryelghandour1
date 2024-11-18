@@ -20,9 +20,8 @@ Projects
 
 Here are some of my notable projects:
 
-- <strong>Todo list</strong>: used Hive frame and Block concept
-- <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a></li>
-- **[Weather App]([link-to-project](https://github.com/nadayousryelghandour1/task11))**: used Api and Block concept
+- <strong>Todo list</strong> : used Hive frame and Block concept  ====>  <a href="https://github.com/nadayousryelghandour1/task12.1">View Project</a>
+- <strong> Weather App </strong> : used Api and Block concept ===> <a href="https://github.com/nadayousryelghandour1/task11">View Project</a>
 
 <!---
 nadayousryelghandour1/nadayousryelghandour1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
