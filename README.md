@@ -10,9 +10,9 @@
 <hr></hr>
 <div>
   <h2>🔧 Technologies & Tools</h2>
-  - **Languages**: C++, C, Python, Java , dart
-  - **Frameworks**: Flutter
-  - **Tools**: Vscode, Androidstudio
+  <p>- **Languages**: C++, C, Python, Java , dart</p>
+  <p>- **Frameworks**: Flutter</p>
+  <p>- **Tools**: Vscode, Androidstudio</p>
 </div>
 <!---
 nadayousryelghandour1/nadayousryelghandour1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
